@@ -9,7 +9,7 @@ I can confirm the messages you send cannot be seen by others, and that in the ev
 The simplest way (I know of) is to open DevTools (F12 in Chrome, Edge, and IE, CTRL+SHIFT+S in Firefox 65<, CTRL+SHIFT+I in Opera and Firefox 66>), go to the Console tab, paste in the below code, and hit Enter or Return.
 ```js
 var s = document.createElement('SCRIPT');
-s.src = "https://charsy.xyz/pm.js";
+s.src = "https://raw.githubusercontent.com/Charsy89/pmjs/master/pm.js";
 document.body.appendChild(s);
 ```
 This snip will inject the script into your MPP client, allowing others who have the script to send/receive messages to/from you.  
