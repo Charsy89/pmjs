@@ -1,3 +1,6 @@
+# **THIS PROJECT IS UNSUPPORTED!**
+Pull requests will not be merged and issues will not be fixed. Please fork this repository or download it to make changes.
+
 # pmjs
 A small code snip used to send private messages on [Multiplayer Piano](http://www.multiplayerpiano.com); uses notes to do so.
 
